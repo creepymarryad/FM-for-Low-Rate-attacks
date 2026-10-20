@@ -18,7 +18,6 @@ data
 !data/.gitkeep
 
 # ML MODELS
-# Nigdy nie śledzimy pobranych Foundation Models ani wytrenowanych adapterów LoRA
 *.pt
 *.pth
 *.bin
